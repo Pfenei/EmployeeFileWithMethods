@@ -1,0 +1,13 @@
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\bin\Debug\netcoreapp3.1\EmployeeFileWithMethods.exe
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\bin\Debug\netcoreapp3.1\EmployeeFileWithMethods.deps.json
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\bin\Debug\netcoreapp3.1\EmployeeFileWithMethods.runtimeconfig.json
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\bin\Debug\netcoreapp3.1\EmployeeFileWithMethods.runtimeconfig.dev.json
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\bin\Debug\netcoreapp3.1\EmployeeFileWithMethods.dll
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\bin\Debug\netcoreapp3.1\EmployeeFileWithMethods.pdb
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\obj\Debug\netcoreapp3.1\EmployeeFileWithMethods.csprojAssemblyReference.cache
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\obj\Debug\netcoreapp3.1\EmployeeFileWithMethods.AssemblyInfoInputs.cache
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\obj\Debug\netcoreapp3.1\EmployeeFileWithMethods.AssemblyInfo.cs
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\obj\Debug\netcoreapp3.1\EmployeeFileWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\obj\Debug\netcoreapp3.1\EmployeeFileWithMethods.dll
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\obj\Debug\netcoreapp3.1\EmployeeFileWithMethods.pdb
+C:\Users\cupca\source\repos\EmployeeFileWithMethods\obj\Debug\netcoreapp3.1\EmployeeFileWithMethods.genruntimeconfig.cache
